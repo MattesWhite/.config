@@ -1,4 +1,4 @@
 broot/
 htop/
 fish/conf.d/
-fish/functions/
+fish/functions/br.fish
